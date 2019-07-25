@@ -1,0 +1,29 @@
+{
+  "name": "stream_webrtc_peerjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chipsfu/stream_webrtc_peerjs.git"
+  },
+  "author": "yendt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chipsfu/stream_webrtc_peerjs/issues"
+  },
+  "homepage": "https://github.com/chipsfu/stream_webrtc_peerjs#readme",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "peerjs": "^1.0.2",
+    "uid": "0.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
