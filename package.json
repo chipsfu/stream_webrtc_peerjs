@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/chipsfu/stream_webrtc_peerjs#readme",
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "peerjs": "^1.0.2",
     "uid": "0.0.2"
   },
